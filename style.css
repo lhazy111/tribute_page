@@ -1,0 +1,13 @@
+body{
+margin:auto;
+background-color: black;
+color:white;
+}
+
+#title{
+    color: white;
+}
+
+img{
+    display: block;
+}
